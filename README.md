@@ -1,5 +1,7 @@
 # my-conky-config
 
+[![Conky overlay preview](images/image.png)](images/image.png)
+
 A minimal [Conky](https://github.com/brndnmtthws/conky) setup inspired by the ThinkPad look-and-feel, displaying a large clock, date, machine model, and OS name in the top-right corner of the desktop.
 
 ## Preview
